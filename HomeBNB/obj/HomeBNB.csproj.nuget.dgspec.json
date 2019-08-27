@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dror\\Desktop\\Michal\\web-app-project\\HomeBNB\\HomeBNB\\HomeBNB.csproj": {}
+    "C:\\WebAppProject\\web-app-project\\HomeBNB\\HomeBNB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dror\\Desktop\\Michal\\web-app-project\\HomeBNB\\HomeBNB\\HomeBNB.csproj": {
+    "C:\\WebAppProject\\web-app-project\\HomeBNB\\HomeBNB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dror\\Desktop\\Michal\\web-app-project\\HomeBNB\\HomeBNB\\HomeBNB.csproj",
+        "projectUniqueName": "C:\\WebAppProject\\web-app-project\\HomeBNB\\HomeBNB.csproj",
         "projectName": "HomeBNB",
-        "projectPath": "C:\\Users\\Dror\\Desktop\\Michal\\web-app-project\\HomeBNB\\HomeBNB\\HomeBNB.csproj",
-        "packagesPath": "C:\\Users\\Dror\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dror\\Desktop\\Michal\\web-app-project\\HomeBNB\\HomeBNB\\obj\\",
+        "projectPath": "C:\\WebAppProject\\web-app-project\\HomeBNB\\HomeBNB.csproj",
+        "packagesPath": "C:\\Users\\Eitan\\.nuget\\packages\\",
+        "outputPath": "C:\\WebAppProject\\web-app-project\\HomeBNB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dror\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Eitan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,10 +52,18 @@
               "target": "Package",
               "version": "[2.1.2, )"
             },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
             "Microsoft.NETCore.App": {
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.9, )"
             }
           },
           "imports": [
