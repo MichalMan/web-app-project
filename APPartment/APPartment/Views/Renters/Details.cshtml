@@ -1,0 +1,36 @@
+﻿@model Appartment.Models.Renter
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Renter</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.RenterName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.RenterName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.RenterEmail)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.RenterEmail)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.RenterApartment)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.RenterApartment.ApartmentID)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.RenterID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
