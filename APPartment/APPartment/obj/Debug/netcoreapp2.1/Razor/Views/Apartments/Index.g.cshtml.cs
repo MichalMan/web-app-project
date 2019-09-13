@@ -70,7 +70,7 @@ using APPartment.Models;
             WriteLiteral("\r\n<h2>Index</h2>\r\n\r\n<p>\r\n    ");
             EndContext();
             BeginContext(121, 37, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1e4c195772bb414598a0ca3b6cca0704", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9a294f8a6ddd4836bcb6240f063d9367", async() => {
                 BeginContext(144, 10, true);
                 WriteLiteral("Create New");
                 EndContext();
@@ -92,7 +92,7 @@ using APPartment.Models;
             WriteLiteral("\r\n</p>\r\n\r\n");
             EndContext();
             BeginContext(168, 196, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4cfee534cdd249e3819f1c46f9a695b0", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "89bb0f7f7b3a4369a12dd2c8d5d114cb", async() => {
                 BeginContext(221, 136, true);
                 WriteLiteral("\r\n    <p>\r\n        Landlords name: <input type=\"text\" name=\"LandLordName\" />\r\n        <input type=\"submit\" value=\"Filter\" />\r\n    </p>\r\n");
                 EndContext();
@@ -246,7 +246,7 @@ using APPartment.Models;
             WriteLiteral("\r\n            </td>\r\n            <td>\r\n                ");
             EndContext();
             BeginContext(1776, 62, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e296860a9a7e4ea98fa48a9ff395a480", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3270e4929994bc0a896ebb34c86216d", async() => {
                 BeginContext(1830, 4, true);
                 WriteLiteral("Edit");
                 EndContext();
@@ -281,7 +281,7 @@ using APPartment.Models;
             WriteLiteral(" |\r\n                ");
             EndContext();
             BeginContext(1858, 68, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a2fec97f357542698dc7cb2f9246e763", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "20bb8e66f4ba45c78241135b76c4e04e", async() => {
                 BeginContext(1915, 7, true);
                 WriteLiteral("Details");
                 EndContext();
@@ -316,7 +316,7 @@ using APPartment.Models;
             WriteLiteral(" |\r\n                ");
             EndContext();
             BeginContext(1946, 66, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0e8a17ab2768445698293c215467e2c8", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "830340dccda744ba9877e1ee873894b2", async() => {
                 BeginContext(2002, 6, true);
                 WriteLiteral("Delete");
                 EndContext();
